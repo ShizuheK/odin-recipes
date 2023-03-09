@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a simple html web site that teaches three recipes. Skills required were: basic understanding of html structure, headings, and functions like inserting images, creating lists and creating links that redirect to a relative address. 
